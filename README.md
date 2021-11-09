@@ -1,2 +1,2 @@
 # -Insert-Epic-and-crazy-name-here-
-A custom visual addon for Real Solar System
+Derrived from the work of RSSVE, RVE64k, EVO, AVP, and KSRSS.
