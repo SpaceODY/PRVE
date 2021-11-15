@@ -16,4 +16,4 @@ All components of this mod outside of the list below should be considered CC-BY-
 - EVO Configs/Textures (Credits to ItsJustLuci and the testers of EVO) | CC-BY-NC-SA 4.0
 - RVE64k Configs/Textures (Credits to pingopete) | CC-BY-NC-SA 4.0
 - RVE Configs/Textures (Credits to pingopete) | CC-BY-NC-SA
-- Earth city light textures | Usage has been granted privatly from friend. CANNOT be redistributed.
+- Earth city light textures | Usage has been granted privatly from a friend. CANNOT be redistributed.
