@@ -10,7 +10,7 @@ PRVE is a visual enhancment mod for KSP RO/RSS. The mod combines old textures an
 
 NOT COMPTATABLE WITH: Any other RSS/RO visual mod for RSS planets (RSSVE,EVO,RVE,RVE-64k,etc.)
 
-DOWNLOAD INSTRUCTIONS:
+# Download Instructions
 - Delete any other visual mods or other PRVEs
 - Download respected version of mod you would like (Currently only Normal)
 - Open .zip file and merge GameData folder with 
@@ -19,7 +19,7 @@ DOWNLOAD INSTRUCTIONS:
 
 
 
-LICENSING:
+# LICENSING
 
 All components of this mod outside of the list below should be considered CC-BY-NC-SA 4.0
 
