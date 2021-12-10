@@ -10,9 +10,26 @@ NOT COMPTATABLE WITH: Any other RSS/RO visual mod for RSS planets (RSSVE,EVO,RVE
 
 # Download Instructions
 - Delete any other visual mods or other PRVEs
-- Download respected version of mod you would like (Currently only Normal)
-- Open .zip file and merge GameData folder with 
+- Download file named "Core.zip"
+- Open "Core.zip" file and merge GameData folder with KSP directory GameData folder.
+- Download respected config of mod you would like (Currently only Normal)
+- Open "(Config name).zip" file and merge GameData folder with KSP directory GameData folder.
 - Enjoy
+
+# Addons
+
+What is addons? These are extra files that change textures or profiles for other visual enhancers. Most recent version includes:
+
+- KS3P Profile (From pingopete's RVE-64k)
+- TUFX Profile (Highly suggested to use KS3P Profile alongside it)
+- Exaggerated bump map for Earth (Adds depth to ground)
+
+How to install:
+- Download the file named "PRVE-Addons-(Version).zip"
+- Merge contents inside of "GameData" folder into KSP directory GameData folder (Overwrite anything that asks).
+
+IF YOU WANT TO USE KS3P INSTALL 1.9.1 VERSION HERE: https://github.com/c1usta/KS3P/releases
+
 
 
 
