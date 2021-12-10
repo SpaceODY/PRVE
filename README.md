@@ -1,10 +1,8 @@
-# PRVE
+# PRVE (Beta)
 Derrived from the work of RSSVE, RVE64k, RVE, EVO (Most of it), AVP, and KSRSS.
 
 
 PRVE is a visual enhancment mod for KSP RO/RSS. The mod combines old textures and configs with new scatter and Environmental Visual Enhancments congfigs to rebirth and make them better. Look at licensing for respected licensing for each texture.
-
-# CURRENTLY IN BETA
 
 
 
