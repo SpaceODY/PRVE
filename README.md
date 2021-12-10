@@ -12,8 +12,8 @@ NOT COMPTATABLE WITH: Any other RSS/RO visual mod for RSS planets (RSSVE,EVO,RVE
 - Delete any other visual mods or other PRVEs
 - Download file named "Core.zip"
 - Open "Core.zip" file and merge GameData folder with KSP directory GameData folder.
-- Download respected config of mod you would like (Currently only Normal)
-- Open "(Config name).zip" file and merge GameData folder with KSP directory GameData folder.
+- Download respected profile/configuration of mod you would like (Currently only Normal)
+- Open "(Profile name).zip" file and merge GameData folder with KSP directory GameData folder.
 - Enjoy
 
 # Addons
