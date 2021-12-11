@@ -9,8 +9,11 @@ PRVE (Photo Realistic Visual Enhancement) is a visual enhancement mod for KSP RO
 Requirements:
 
 Scatterer (v0.0772) - Cannot use most recent version
+
 Environmental Visual Enhancements (v1.11.5.1)
+
 Real Solar System (v18.4.0)
+
 KSP (v1.10.1) - May work on other versions
 
 COMPATABLE WITH: KS3P, TUFX
