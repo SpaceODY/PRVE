@@ -9,13 +9,22 @@ PRVE is a visual enhancment mod for KSP RO/RSS. The mod combines old textures an
 
 Requirments:
 
-Scatterer (v0.0772)
+Scatterer (v0.0772) - Cannot use most recent version
 Environmental Visual Enhancements (v1.11.5.1)
 Real Solar System (v18.4.0)
+KSP (v1.10.1) - May work on other versions
 
 COMPATABLE WITH: KS3P, TUFX
 
 NOT COMPTATABLE WITH: Any other RSS/RO visual mod for RSS planets (RSSVE,EVO,RVE,RVE-64k,etc.)
+
+# SYSTEM REQUIRMENTS
+
+PRVE has been created with a rig of these properties:
+
+- AMD Ryen 5 1600
+- 32gb RAM
+- NVIDIA GeForce GTX 1060 6gb Dual fans
 
 # Download Instructions
 - Delete any other visual mods or other PRVEs
