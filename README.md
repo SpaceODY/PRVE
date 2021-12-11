@@ -5,23 +5,27 @@ Derrived from the work of RSSVE, RVE64k, RVE, EVO (Most of it), AVP, and KSRSS.
 PRVE is a visual enhancment mod for KSP RO/RSS. The mod combines old textures and configs with new scatter and Environmental Visual Enhancments congfigs to rebirth and make them better. Look at licensing for respected licensing for each texture.
 
 
+# COMPATABILITY/REQUIRED MODS 
+
+Requirments:
+
+Scatterer (v0.0772)
+Environmental Visual Enhancements (v1.11.5.1)
+Real Solar System (v18.4.0)
+
+COMPATABLE WITH: KS3P, TUFX
 
 NOT COMPTATABLE WITH: Any other RSS/RO visual mod for RSS planets (RSSVE,EVO,RVE,RVE-64k,etc.)
 
 # Download Instructions
 - Delete any other visual mods or other PRVEs
-- Download file named "Core.zip"
-- Open "Core.zip" file and merge GameData folder with KSP directory GameData folder.
-- Download respected profile/configuration of mod you would like (Currently only Normal)
-- Open "(Profile name).zip" file and merge GameData folder with KSP directory GameData folder.
-- Enjoy
+- Download file named "PRVE.zip"
+- Open "PRVE.zip" file and merge GameData folder with KSP directory GameData folder.
 
 # Addons
 
-What is addons? These are extra files that change textures or profiles for other visual enhancers. Most recent version includes:
+What are the addons? These are extra files that change textures or profiles for other visual enhancers. Most recent version includes:
 
-- KS3P Profile (From pingopete's RVE-64k)
-- TUFX Profile (Highly suggested to use KS3P Profile alongside it)
 - Exaggerated bump map for Earth (Adds depth to ground)
 
 How to install:
