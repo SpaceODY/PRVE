@@ -1,17 +1,17 @@
 # PRVE v1.0.1b (Beta)
-Derrived from the work of RSSVE, RVE64k, RVE, EVO (Most of it), AVP, and KSRSS.
+Derived from the work of RSSVE, RVE64k, RVE, EVO (Most of it), AVP, and KSRSS.
 
 ![image](https://user-images.githubusercontent.com/77604027/145659943-0294da6a-b4bc-4533-bb69-4c341a41f1e0.png)
 ![image](https://user-images.githubusercontent.com/77604027/145659988-8abf98e5-0f9c-4a27-8ed7-7c9d37df04fc.png)
 
 
 
-PRVE is a visual enhancment mod for KSP RO/RSS. The mod combines old textures and configs with new scatter and Environmental Visual Enhancments congfigs to rebirth and make them better. Look at licensing for respected licensing for each texture.
+PRVE is a visual enhancement mod for KSP RO/RSS. The mod combines old textures and configs with new scatter and Environmental Visual Enhancements configs to rebirth and make them better. Look at licensing for respected licensing for each texture.
 
 
 # COMPATABILITY/REQUIRED MODS 
 
-Requirments:
+Requirements:
 
 Scatterer (v0.0772) - Cannot use most recent version
 Environmental Visual Enhancements (v1.11.5.1)
@@ -26,7 +26,7 @@ NOT COMPTATABLE WITH: Any other RSS/RO visual mod for RSS planets (RSSVE,EVO,RVE
 
 PRVE has been created with a rig of these properties:
 
-- AMD Ryen 5 1600
+- AMD Ryzen 5 1600
 - 32gb RAM
 - NVIDIA GeForce GTX 1060 6gb Dual fans
 
@@ -60,4 +60,4 @@ All components of this mod outside of the list below should be considered CC-BY-
 - EVO Configs/Textures (Credits to ItsJustLuci and the testers of EVO) | CC-BY-NC-SA 4.0
 - RVE64k Configs/Textures (Credits to pingopete) | CC-BY-NC-SA 4.0
 - RVE Configs/Textures (Credits to pingopete) | CC-BY-NC-SA
-- Earth city light textures | Usage has been granted privatly from a friend. CANNOT be redistributed.
+- Earth city light textures | Usage has been granted privately from a friend. CANNOT be redistributed.
