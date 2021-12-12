@@ -54,7 +54,7 @@ IF YOU WANT TO USE KS3P INSTALL 1.9.1 VERSION HERE: https://github.com/c1usta/KS
 All components of this mod outside of the list below should be considered CC-BY-NC-SA 4.0
 
 - Modified RSS-Textures 16k (Credits to VaNnadin for his 16k HQ texture pack) | CC-BY-NC-SA 4.0
-- Earth Auroras (Credits to themaster401 and Astronomer | Used at themaster401 permission) | CC-BY-NC-SA
+- Earth Auroras and geyser textures (Credits to themaster401 and Astronomer | Used at themaster401 permission) | CC-BY-NC-SA
 - EVO Configs/Textures (Credits to ItsJustLuci and the testers of EVO) | CC-BY-NC-SA 4.0
 - RVE64k Configs/Textures (Credits to pingopete) | CC-BY-NC-SA 4.0
 - RVE Configs/Textures (Credits to pingopete) | CC-BY-NC-SA
