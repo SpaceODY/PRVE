@@ -10,6 +10,10 @@ COMPATABLE WITH: KS3P, TUFX
 
 NOT COMPTATABLE WITH: Any other RSS/RO visual mod for RSS planets (RSSVE,EVO,RVE,RVE-64k,etc.)
 
+# INSTALLATION
+
+Go to the releases page and continue there
+
 # SYSTEM REQUIRMENTS
 
 PRVE has been created with a rig of these properties:
