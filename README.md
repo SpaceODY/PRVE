@@ -19,7 +19,7 @@ PRVE has been created with a rig of these properties:
 - **There are green clouds in Earth's atmosphere.** - Most likely because you have another visual mod installed, delete it.
 - **There is a bug I have that isn't on this wall.** - Create a issue report under the tab named "Issues" and someone else or I will help you out.
 
-## .zip file information
+# .zip file information
 
 - **PRVE.zip** - The mod itself. I will eventally separate the textures inside of it for a lower and standard quality version (Gives support for lower-end rigs).
 - **PRVE-64k.zip** - An addition to the PRVE.zip that adds 64k ground textures to earth.
