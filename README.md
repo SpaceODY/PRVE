@@ -25,12 +25,6 @@ PRVE has been created with a rig of these properties:
 
 # LICENSING
 
-	PRVE is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 (CC-BY-NC-SA 4.0) license.
-
-	You should have received a copy of the license along with this work. If not, visit the official Creative Commons web page: https://creativecommons.org/licenses/by-nc-sa/4.0
-
-	Note that the above license does not cover mod packs. Redistributing this work via a mod pack is not allowed.
-
 All components of this mod outside of the list below should be considered CC-BY-NC-SA 4.0
 
 - Modified RSS-Textures 16k (Credits to VaNnadin for his 16k HQ texture pack) | CC-BY-NC-SA 4.0
@@ -40,43 +34,4 @@ All components of this mod outside of the list below should be considered CC-BY-
 - RVE Configs/Textures (Credits to pingopete) | CC-BY-NC-SA
 - Earth city light textures | Usage has been granted from space engine devs. CANNOT be redistributed.
 
-
-Other credits (From original EVO):
-
-	Textures:
-	
-	• Cloud and Earth city detail textures by Real Visual Enhancements.(RVE)
-	
-    • Venus cloud texture map by Snowfall-The-Cat.
-	
-    • Earth low resolution cloud texture map by NASA Visible Earth.
-	
-    • Earth high resolution cloud texture map by NASA Visible Earth.
-		(image preparation by Harald Schmidt - redistributed by The Celestia Motherlode)
-		
-    • Earth city lights texture map by NASA Earth Observatory.
-	
-    • Jupiter texture map. (used for exporting some basic cloud textures) by Björn Jónsson
-	
-    • Saturn texture map (used for exporting some basic cloud textures) by Runar Thorvaldsen, Dr. Fridger Schremmp and 
-		Grant Hutchinson. (redistributed by The Celestia Motherlode)
-		
-    • Saturn ring texture by CICLOPS. (Cassini Imaging Central Laboratory For Operations - image preparation by 
-		Daren Wilson and Carolyn Porco)
-		
-    • Uranus and Neptune texture maps (used for exporting some basic cloud textures) by JHT's Planetary Pixel Emporium.
-	
-	• City Lights Masks made by Vladimir Romanyuk, publisher of Space Engine. 
-		Textures sourced from the Space Engine HD and Space Engine UHD Addons. THESE ASSETS ARE NOT TO BE REDISTRIBUTED!
-	
-	
-	• Mars Dust, Titan and Venus Fog based on configs by the KSRSSVE team.
-	
-	Programming:
-
-    • Environmental Visual Enhancements (EVE) by rbray89 and WazWaz.
-    • Module Manager by ialdabaoth and sarbian.
-    • Real Solar System (RSS) by NathanKell.
-    • Real Visual Enhancements (RVE) by Pingopete.
-    • Scatterer by Blackrack.
-	• Kopernicus Exansion Continued-er by Vabien.
+Other credits (In more detail) are included in the PRVE-(Version Number).zip
