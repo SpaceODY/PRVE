@@ -23,7 +23,7 @@ PRVE has been created with a rig of these properties:
 
 - **PRVE.zip** - The mod itself. I will eventally separate the textures inside of it for a lower and standard quality version (Gives support for lower-end rigs).
 - **PRVE-64k.zip** - An addition to the PRVE.zip that adds 64k ground textures to earth.
-- **PRVE-Addons.zip** - Extra components of the mod. Currently includes: **Exaggerated Earth bump map, Scatterer v0.08+ support**.
+- **PRVE-v0.08+** - Contains scatterer configs for v0.08+ (WIP)
 
 
 ## Licensing
