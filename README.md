@@ -17,6 +17,7 @@ PRVE has been created with a rig of these properties:
 
 - **My clouds dont have any atmosphere effect on them.** - Hit Ctrl+F10 and press "Map EVE Clouds"
 - **There are green clouds in Earth's atmosphere.** - Most likely because you have another visual mod installed, delete it.
+- **My game is laggy!** - Well some PC's aren't up to the task that PRVE asks for. Try out the lower resolution download and see how it goes.
 - **There is a bug I have that isn't on this wall.** - Create a issue report under the tab named "Issues" and someone else or I will help you out.
 
 # .zip file information
