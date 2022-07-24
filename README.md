@@ -21,7 +21,8 @@ PRVE has been created with a rig of these properties:
 
 # .zip file information
 
-- **PRVE.zip** - The mod itself. I will eventally separate the textures inside of it for a lower and standard quality version (Gives support for lower-end rigs).
+- **PRVE.zip** - The mod itself with textures at their standard resolution.
+- **PRVE_LR.zip** - The lower resolution version of PRVE. All textures in the PRVE/Textures/MainTextures are at a quarter of their normal resolution.
 - **PRVE-64k.zip** - An addition to the PRVE.zip that adds 64k ground textures to earth.
 
 
